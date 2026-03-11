@@ -50,7 +50,7 @@ jobs:
             "sEduHealth":"USEHS",
             "sLeisure":  "USLAH",
             "sProfBus":  "USPBS",
-            "sRetail":   "USRTRADE",
+            "sRetail":   "USTRADE",
             "sGovt":     "USGVT",
             "sManuf":    "MANEMP",
             "sFinancial":"USFIRE",
